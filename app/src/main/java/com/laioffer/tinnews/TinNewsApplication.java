@@ -1,0 +1,6 @@
+package com.laioffer.tinnews;
+
+import android.app.Application;
+
+public class TinNewsApplication extends Application {
+}
