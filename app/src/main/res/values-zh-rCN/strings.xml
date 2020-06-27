@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="unknown_author">佚名</string>
+    <string name="description">正文:</string>
+    <string name='author'>作者:</string>
+</resources>
